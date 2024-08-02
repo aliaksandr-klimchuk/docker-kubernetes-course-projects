@@ -12,7 +12,6 @@ written to learn and understand the Docker and Kubernetes advanced features.
 ### Technologies:
 - Programming languages: Java;
 - Frameworks: Spring Boot;
-- JMS: Apache Kafka;
-- IDE: Visual Studio Code;
-- Tools: Postman, Git, HTTPs, XML, YAML, JSON;
+- IDE: Intellij IDEA;
+- Tools: Docker, Kubernetes, Postman, Git, HTTPs, XML, YAML, JSON;
 - Others: GitHub, ESLint.
