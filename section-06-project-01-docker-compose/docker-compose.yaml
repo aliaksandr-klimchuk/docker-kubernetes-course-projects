@@ -5,9 +5,9 @@ services:
     volumes: 
       - data:/data/db
     # environment: 
-    #   MONGO_INITDB_ROOT_USERNAME: max
+    #   MONGO_INITDB_ROOT_USERNAME: alex
     #   MONGO_INITDB_ROOT_PASSWORD: secret
-      # - MONGO_INITDB_ROOT_USERNAME=max
+      # - MONGO_INITDB_ROOT_USERNAME=alex
     env_file: 
       - ./env/mongo.env
   backend:
